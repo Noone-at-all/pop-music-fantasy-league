@@ -1,0 +1,27 @@
+{
+    "name": "@fantasy-music/shared-types",
+    "version": "0.1.0",
+    "private": true,
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc -w"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "description": "sharedd types for pop music fantasy league",
+    "repository": {
+        "type": "git",
+        "url": "pop-music-fantasy-league"
+    },
+    "keywords": [
+        "pop",
+        "music",
+        "fantasy",
+        "league"
+    ],
+    "author": "noone-at-all",
+    "license": "MIT"
+}

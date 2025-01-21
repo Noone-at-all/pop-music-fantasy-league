@@ -1,0 +1,8 @@
+{
+    "name": "@fantasy-music/backend",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@fantasy-music/shared-types": "^0.1.0"
+      }
+  }
